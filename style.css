@@ -60,11 +60,13 @@ body {
   left: 10%;
 }
 .search-input {
-  border: 0.1px solid gray;
-  padding: 10px 50px 10px 61px;
+  border: 0.1px solid #e8e8ea;
+  padding: 10px 50px 10px 78px;
   font-weight: 500;
   font-size: 19px;
   border-radius: 10px;
+  height: 57px;
+  width: 478px;
 }
 .logo > h2 {
   font-weight: 700;
